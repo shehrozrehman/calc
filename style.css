@@ -1,0 +1,46 @@
+.head {
+    width: 200px;
+    margin: 10px auto;
+    margin-top: 60px;
+    background-color: indigo;
+    height: 300px;
+
+}
+
+.down {
+    width: 190px;
+    margin: 10px auto ;
+    justify-content: center;
+    margin-left: 1px;
+    font-size: 20px;
+    margin-top: 1px;
+    height: 40px;
+}
+ .cal {
+    width: 200px;
+     justify-content: center;  
+     margin: 1px auto ;
+     margin-left: 5px;
+     margin-top: 5px;
+  
+
+
+ } 
+ button {
+     width: 50px;
+     height: 20px;
+     justify-content: center;
+     color: rgb(134, 134, 6);
+     padding : 0px;
+     margin : 10px ;
+     margin-left: 2px;
+     
+ }
+.ab {
+    margin-left: 70px;
+}
+h1{
+    font-size: 40px;
+    margin-left: 350px;
+
+}
